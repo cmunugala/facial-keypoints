@@ -5,4 +5,6 @@ This is a predictive modeling projects where I try to identify facial keypoints 
 Skills highlighted in this project:
 
 - Exploratory Data Analysis
-- Machine learning (Keras)
+- Neural Networks (Keras)
+- Imputation Methods
+- Data Augmentation
